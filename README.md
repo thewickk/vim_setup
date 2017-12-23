@@ -13,7 +13,10 @@ vim +PluginInstall +qall
 
 Thats it, plug-ins will install and you will have a custom vim with my personal favorite plug-in of all time, NERDTree. 
 
-Many thanks to: \n
-https://github.com/VundleVim \n
-https://github.com/sherifkandeel \n
-https://github.com/scrooloose (creator of The NERDTree) \n
+Many thanks to: 
+
+https://github.com/VundleVim 
+
+https://github.com/sherifkandeel
+
+https://github.com/scrooloose (creator of The NERDTree)
